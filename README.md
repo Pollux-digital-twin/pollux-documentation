@@ -4,6 +4,8 @@ This repository is part of the 'POLLUX Digital Twin' project.
 
 Web based documentation repository of the POLLUX Digital Twin
 
+The online version can be found here: https://pollux-digital-twin.readthedocs.io/en/latest
+
 ## Bug reports and discussions
 
 If you think you found a bug, feel free to open an [issue](https://github.com/Pollux-digital-twin/pollux-documentation/issues).
